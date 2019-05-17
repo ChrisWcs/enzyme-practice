@@ -1,0 +1,1 @@
+export const hasProp = (comp, k) => comp.props().keys().hasOwnProperty(k)
